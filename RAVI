@@ -21,10 +21,6 @@
     }
     .menu a:hover {
       background-color: #575757;
-    } 
-  .menu { 
-      background-color: #333;
-      overflow: hidden;
     }
   </style>
 </head>
